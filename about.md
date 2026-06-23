@@ -1,16 +1,17 @@
 # About
 
 ## Project
-This research project is all about teaching you how to create websites with Github pages.
+{{ site.description }}
 
 ## Funders
-We are greatfully acknowledge funding from that under grant number ''
+We are greatfully acknowledge funding from the XYZ Founding Concil, under grant number ''
 
 ## Cite us
 You can cite the project as:
 
-> *The Carpentries 2019 Annual Repotr. Zenodo.
+> *The Carpentries 2019 Annual Repotr. Zenodo. https://doi/zendo.3840
 
 ## Contact us
-- Email : [team@carpentries.org](mailto: teamcarpentry@gmail.com)
+
+- Email : [team@carpentries.org](mailto: {{ site.email }})
 - GitHub: [https://github.com/swcarpentry.org](https://github.com/swcarpentry.org)
