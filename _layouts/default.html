@@ -3,3 +3,19 @@
 {{ content }}
 
 {% include footer.html %}
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {% include navigation.html %}
+    <h1>{{ page.title }}</h1>
+    <section>
+      {{ content }}
+    </section>
+    {% include footer.html %}
+  </body>
+</html>
