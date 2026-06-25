@@ -13,4 +13,4 @@ You can cite the project as:
 
 > *The Carpentries 2019 Annual Repotr. Zenodo. https://doi/zendo.3840372*
 
-{% include footer.html %}
+
