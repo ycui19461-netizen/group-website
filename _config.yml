@@ -1,3 +1,14 @@
 description: "This research project develops training material for rsearchers wanting to learn to build project websites in GitHun with GitHub Pages"
 email: "team@carpentries.org"
 github: "https://github.com/swcarpentry.org"
+
+team_members:
+  - name:" Sarah Becker"
+    role: "project lead"
+    start_date: "2016-02-01"
+  - name: " Jane Smith"
+    role: maintainer
+    start_date: "2018-03-15"
+  - name: "Albert"
+    role: editer
+    start_date: "2013-0-0"
