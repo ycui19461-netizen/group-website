@@ -1,16 +1,18 @@
-{% include navigation,html %}
-
-# About
+---
+layout: default
+title: About
+---
 
 ## Project
-{{ site.description }}
+
+Building Websites with Jekyll & GitHub Pages.
 
 ## Funders
-We are greatfully acknowledge funding from the XYZ Founding Concil, under grant number 'abc'
+
+We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
 
 ## Cite us
+
 You can cite the project as:
 
-> *The Carpentries 2019 Annual Repotr. Zenodo. https://doi/zendo.3840372*
-
-
+>    *The Carpentries 2019 Annual Report. Zenodo. https://doi.org/10.5281/zenodo.3840372*
